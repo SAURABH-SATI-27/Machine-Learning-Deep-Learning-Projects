@@ -1,2 +1,3 @@
-# Machine-Learning-Deep-Learning-Projects
-Machine Learning And Deep Learning Projects
+# Machine-Learning
+Machine Learning Algorithms
+
